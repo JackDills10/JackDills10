@@ -1,11 +1,31 @@
-# Hi, I'm Jack Dills! 👋
+# Hi, I'm Jack 👋
 
-I am a high school student aspiring to study **Mechanical Engineering and Robotics** in college. Throughout high school I am learning the fundamentals of CAD design, micro-controllers, and coding to build several autonomous projects.
+I'm a high school student interested in engineering, computer science, and technology.
 
-## 🛠️ The Toolkit (What I Want to Learn)
-* **Hardware/CAD:** Onshape
-* **Software:** Python / C++
+I enjoy learning how things work, building projects, and exploring how software and hardware can be used to solve real-world problems.
 
-## 🚀 Future Focus
-* Developing numerous 3D mechanical designs integrated with code.
-* Fully understanding and learning the syntax of python and C++.
+## Interests
+
+- Software Engineering
+- Artificial Intelligence
+- Computer Science
+- Robotics
+- Engineering Design
+- App Development
+- Technology Innovation
+
+## Currently Learning
+
+- Programming fundamentals
+- Python
+- Swift
+- Artificial Intelligence
+- Computer Vision
+- Software Development
+
+## Goals
+
+- Build meaningful engineering projects
+- Continue improving my programming skills
+- Explore new technologies
+- Create solutions to real-world 

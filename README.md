@@ -1,31 +1,49 @@
-# Hi, I'm Jack 👋
+# Engineering & Technology Portfolio
 
-I'm a high school student interested in engineering, computer science, and technology.
+Welcome to my engineering portfolio. This repository documents my journey of learning, designing, and building projects across technology, engineering, and innovation.
 
-I enjoy learning how things work, building projects, and exploring how software and hardware can be used to solve real-world problems.
+## About
 
-## Interests
+This portfolio showcases my exploration of problem-solving through engineering, programming, design, and hands-on experimentation.
 
-- Software Engineering
-- Artificial Intelligence
-- Computer Science
-- Robotics
-- Engineering Design
-- App Development
-- Technology Innovation
+I am interested in developing skills across multiple areas of technology and applying them to create practical solutions, prototypes, and new ideas.
 
-## Currently Learning
+## Areas of Exploration
 
-- Programming fundamentals
-- Python
-- Swift
-- Artificial Intelligence
-- Computer Vision
-- Software Development
+This portfolio may include work involving:
+
+* Software development
+* Artificial intelligence and machine learning
+* Computer science
+* Engineering design
+* Computer-aided design (CAD)
+* 3D modeling and prototyping
+* Robotics and automation
+* Electronics and hardware
+* Technical research and experimentation
+
+## Skills & Tools
+
+Throughout my projects, I continue developing skills in:
+
+* Programming and software development
+* Engineering design processes
+* Digital modeling and visualization
+* Prototyping and testing
+* Problem-solving and critical thinking
+* Technical documentation
+
+## Engineering Approach
+
+Each project follows a process of:
+
+1. Understanding a problem or idea
+2. Researching possible solutions
+3. Designing and planning
+4. Building and testing
+5. Improving through iteration
+6. Documenting the results
 
 ## Goals
 
-- Build meaningful engineering projects
-- Continue improving my programming skills
-- Explore new technologies
-- Create solutions to real-world 
+My goal is to continuously learn new technologies, develop engineering skills, and transform ideas into real-world projects through creativity, experimentation, and persistence.
